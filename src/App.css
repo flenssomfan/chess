@@ -48,3 +48,9 @@ background-color: #eed4ac;
   border-radius: 50%;
   background-color:#299229;
 }
+.lost {
+  height: calc(50vh - 60 px);
+  padding: 30px;
+  margin-left: 50px;
+  background-color: lightgray;
+}
